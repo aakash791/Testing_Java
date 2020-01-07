@@ -9,7 +9,7 @@ public class test {
 		str = str.toLowerCase();
 
 		int len = str.length() - 1;
-		int p = 5;
+		long p = 5;
 		StringBuffer sb = new StringBuffer();
 
 		for (int i = len; i >= 0; i--) {
